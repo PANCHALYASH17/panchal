@@ -1,0 +1,68 @@
+/*CSS File For Sign-In webpage*/ #body-color{ background-color:#6699CC; }
+#index{
+margin-top:150px;
+margin-bottom:150px;
+margin-right:150px;
+margin-left:450px;
+border:3px solid #a1a1a1;
+padding:9px 35px; 
+background:#8000CC;
+width:400px;
+border-radius:20px;
+box-shadow: 7px 7px 6px; } #button{ border-radius:10px; width:100px;
+}
+#button{
+border-radius:10px;
+width:100px;
+height:40px;
+background:#FF00FF;
+font-weight:bold;
+font-size:20px
+input[type=text] {
+    width: 100%;
+    padding: 8px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #555;
+    outline: none;
+}
+input[type=text]:focus {
+    background-color: lightblue;
+}
+input[type=Number] {
+    width: 100%;
+  	padding: 8px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #555;
+    outline: none;
+}
+
+input[type=Number]:focus {
+    background-color: lightblue;
+}
+input[type=Submit] {
+    width: 100%;
+     padding: 8px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #555;
+    outline: none;
+}
+
+input[type=Submit]:focus {
+    background-color: lightblue;
+}
+input[type=Reset] {
+    width: 100%;
+     padding: 8px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #555;
+    outline: none;
+}
+
+input[type=Reset]:focus {
+    background-color: lightblue;
+}
+}
